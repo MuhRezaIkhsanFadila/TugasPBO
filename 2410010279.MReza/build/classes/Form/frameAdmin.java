@@ -1,0 +1,1 @@
+package Form; public class frameAdmin extends javax.swing.JFrame { public frameAdmin(){ initComponents(); } private void initComponents(){ setTitle("Data Admin"); setSize(500,300);} }
